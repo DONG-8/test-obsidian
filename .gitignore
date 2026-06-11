@@ -1,0 +1,28 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+~$*
+
+# Obsidian generated local files
+.trash/
+
+# Keep Obsidian settings, snippets, themes, and plugins tracked so the vault
+# can be moved with the same setup.
+!.obsidian/
+!.obsidian/**
+
+# Smart Composer generated local databases/caches.
+# Plugin code and settings stay tracked under .obsidian/plugins/smart-composer/.
+.smtcmp_json_db/
+.smtcmp_vector_db*
+
+# Oh My Codex runtime state/logs for this local machine.
+# Add explicit config files above this section if they should be shared later.
+.omx/logs/
+.omx/state/
+.omx/metrics.json

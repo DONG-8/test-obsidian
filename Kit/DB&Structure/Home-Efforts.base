@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("efforts")
+        - '!file.folder.contains("efforts/Archive")'
+    order:
+      - file.folder
+      - file.name
+      - up
+    sort:
+      - column: file.folder
+        direction: ASC

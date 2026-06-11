@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - up.contains(this.file.name)
+        - file.folder == "Calendar/Logs"
+    order:
+      - file.name
+    columnSize:
+      file.name: 355

@@ -1,0 +1,26 @@
+{
+  "format": {
+    "timeFormat": "(HH:mm)",
+    "dataViewSyntax": false
+  },
+  "calendars": {
+    "구글 캘린더": {
+      "icsName": "구글 캘린더",
+      "icsUrl": "https://calendar.google.com/calendar/ical/cysstory%40gmail.com/private-24a8ce6f51ffc31c94fc97c85e94c5a0/basic.ics",
+      "ownerEmail": "",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": false,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": false,
+        "calendarType": "remote",
+        "showAttendees": false,
+        "showOngoing": false,
+        "showTransparentEvents": false
+      },
+      "calendarType": "remote"
+    }
+  }
+}

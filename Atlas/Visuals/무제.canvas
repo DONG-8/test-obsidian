@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"578d15155e1a3fda","x":177,"y":-351,"width":400,"height":400,"type":"file","file":"강의자료/Part 3. 데일리노트 활용법.md"},
+		{"id":"ccfe96455f25f885","x":-420,"y":-351,"width":400,"height":400,"type":"file","file":"강의자료/Part 2. 디자인 스타일 세팅.md"},
+		{"id":"c47e85299f845b73","x":-20,"y":160,"width":250,"height":60,"color":"3","type":"text","text":"ㅇㄹㅇㄹㅁㅇㄹㅁㅇㄹ"}
+	],
+	"edges":[
+		{"id":"2a02b2ff0ef0142e","fromNode":"ccfe96455f25f885","fromSide":"right","toNode":"578d15155e1a3fda","toSide":"left"},
+		{"id":"c634dc1f1586d6e3","fromNode":"ccfe96455f25f885","fromSide":"bottom","toNode":"c47e85299f845b73","toSide":"left"},
+		{"id":"9a81d7698b732548","fromNode":"c47e85299f845b73","fromSide":"right","toNode":"578d15155e1a3fda","toSide":"bottom"}
+	]
+}

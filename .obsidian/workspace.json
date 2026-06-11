@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "8f973113263bc654",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4640529aac4fa9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896e456a90cee7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6F/♳ Figurehead.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "♳ Figurehead"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "472bd477debbb6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13677734a08d378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642c304bef6802b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f7aad9857ca4a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#친구/박일영",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "6f14a601fef84f10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "82496686ed717dc6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "137f5cff8ef6b4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5488f4163a9d055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb3ebb9bf09ed40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "4e03355d0b2f8ac2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "강의자료/Part 11. 유용한 플러그인 소개.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Part 11. 유용한 플러그인 소개 의 백링크"
+            }
+          },
+          {
+            "id": "912599c3b116555e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Books/거인의 노트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "거인의 노트 의 나가는 링크"
+            }
+          },
+          {
+            "id": "17863c053f93aac3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "fc3b7568bcb5655b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part 3. 데일리노트 활용법/Part 3. 데일리노트 활용법.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Part 3. 데일리노트 활용법 의 개요"
+            }
+          },
+          {
+            "id": "7e41b5bba6c3873a",
+            "type": "leaf",
+            "state": {
+              "type": "on-this-day-view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "On this day"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "journal-review:Open 'On this day' view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "callout-manager:Insert Callout": false,
+      "smart-composer:Open smart composer": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "896e456a90cee7e8",
+  "lastOpenFiles": [
+    "Atlas/Maps/♺ 개발공부.md",
+    "6F/♳ Figurehead.md",
+    "6F/♳ Family.md",
+    "Kit/DB&Structure/Dataview 쿼리 샘플.md",
+    "Kit/DB&Structure/6F-Efforts-Archive.base",
+    "Kit/DB&Structure/6F-LOG.base",
+    "Kit/DB&Structure/6F-Efforts.base",
+    "Efforts/Sleeping/주 2회 독서 리뷰 영상 만들기.md",
+    "Efforts/Sleeping/여행 유튜브 채널 운영.md",
+    "Efforts/Sleeping/아침 6시 기상 루틴.md",
+    "Efforts/Sleeping/물류센터 내 피킹 로봇 도입 PoC.md",
+    "Efforts/Simmering/프라임 회원 이탈 예측 모델 개선.md",
+    "Efforts/Simmering/주말 보드게임 소모임 기획.md",
+    "Efforts/Simmering/가족과 함께 1년 장기여행 준비.md",
+    "Efforts/Ongoing/월 1회 부모님과 식사하기.md",
+    "Efforts/Ongoing/물류 파트너 SLA 정기 리뷰 & 개선 협업.md",
+    "Efforts/Ongoing/매월 자동이체 적금 50만 원 이상 유지.md",
+    "Efforts/Ongoing/글로벌 셀러 마켓 운영 파트너십 관리.md",
+    "Efforts/On/주 1회 피트니스 센터 방문.md",
+    "Efforts/On/아내와 매주 1회 대화 시간 만들기.md",
+    "Efforts/On/건강검진 미리 예약 및 준비하기.md",
+    "Efforts/On/신규 셀러 온보딩 UX 리디자인.md",
+    "Efforts/Archive/Same-Day 배송 가능 지역 확장.md",
+    "Efforts/Archive/Fresh 카테고리 고객 만족도 분석.md",
+    "Efforts/Archive/친구 생일 챙기기 프로젝트.md",
+    "Efforts/Archive/1년간 누적 5권 이상 독서 완료.md",
+    "Efforts/Archive/가족 캠핑 3회 이상 다녀오기.md",
+    "Efforts/Archive/검색 랭킹 알고리즘 AB 테스트.md",
+    "Calendar/Days/2025-05-11.md",
+    "Kit/Attachments/미친결과를저널링하는법_패트릭그로브.mov",
+    "Kit/Attachments/Part 11. 유용한 플러그인 소개.png",
+    "+/Part 11. 유용한 플러그인 소개",
+    "Kit/Attachments/Pasted Image 20231115233614_611.jpeg",
+    "Kit/Attachments/3장 기억하고 연결하고 창조하다.png",
+    "Kit/Attachments/Pasted Image 20231115233614_611.png",
+    "Kit/Attachments/Pasted Image 20231115233614_611.png.sb-e020e8de-IiDWx6",
+    "+/Part 10. 생산성을 높이는 추가 활용 팁",
+    "Kit/DB&Structure/6F-MOC.base",
+    "+/BASE",
+    "6F",
+    "Atlas/Visuals/무제.canvas",
+    "Kit/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Kit/Attachments/Pasted image 20250620171808.png",
+    "Kit/Attachments/Pasted Image 20231120231044_996.png",
+    "Kit/Attachments/Pasted Image 20231120232938_133.png",
+    "Kit/Attachments/Pasted Image 20231120232633_062.png",
+    "Kit/Attachments/Pasted Image 20231120232807_109.png"
+  ]
+}

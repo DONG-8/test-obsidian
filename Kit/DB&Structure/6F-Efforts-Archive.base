@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - up.contains(this.file.name)
+        - file.folder.contains("Efforts/Archive")
+    order:
+      - file.name
+      - up
+    columnSize:
+      file.name: 339

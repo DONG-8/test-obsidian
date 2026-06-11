@@ -1,0 +1,22 @@
+{
+  "callouts": {
+    "custom": [
+      "damon"
+    ],
+    "settings": {
+      "damon": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "255, 252, 168"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

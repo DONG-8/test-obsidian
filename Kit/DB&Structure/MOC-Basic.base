@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - up.contains(this.file.name)
+    order:
+      - file.name
+      - up
+      - file.folder
+    columnSize:
+      file.name: 214
