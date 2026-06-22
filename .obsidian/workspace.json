@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a4640529aac4fa9f",
+        "id": "d69a1b050e93bee3",
         "type": "tabs",
         "children": [
           {
-            "id": "896e456a90cee7e8",
+            "id": "82a4fa00fc3e0d3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6F/♳ Figurehead.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "+/agentic cover.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "agentic cover"
+            }
+          },
+          {
+            "id": "0c8dff498eba2afc",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Kit/Attachments/Video Project 1.mp4"
               },
               "icon": "lucide-file",
-              "title": "♳ Figurehead"
+              "title": "Video Project 1"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "137f5cff8ef6b4fb",
@@ -187,8 +188,8 @@
             "state": {
               "type": "on-this-day-view",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "On this day"
+              "icon": "lucide-ghost",
+              "title": "on-this-day-view"
             }
           }
         ],
@@ -196,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 437.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,54 +218,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "896e456a90cee7e8",
+  "active": "82a4fa00fc3e0d3a",
   "lastOpenFiles": [
+    "Kit/Attachments/Video Project 1.mp4",
+    "+/agentic cover.md",
+    "Kit/Attachments/빌드자동채우기.mp4",
+    "Kit/Attachments/workflow_runtime_platform_20260212050018.pdf",
+    "Kit/Attachments/Video_Project.mp4",
+    "Kit/Attachments/Video Project 3.mp4",
+    "Kit/Attachments/Pasted Image 20260617034157_342.png",
+    "Kit/Attachments/Pasted Image 20260617034100_528.png",
+    "Kit/Attachments/Pasted Image 20260617034020_033.png",
+    "Kit/Attachments/Pasted Image 20260617033825_888.png",
+    "Kit/Attachments/Pasted Image 20260617033629_976.png",
+    "Kit/Attachments/Pasted Image 20260617021315_624.png",
+    "Kit/Attachments/Pasted Image 20260617021142_433.png",
+    "Kit/Attachments/Pasted Image 20260617015337_006.png",
+    "Kit/Attachments/Pasted Image 20260617014902_938.png",
+    "Kit/Attachments/Pasted Image 20260617014303_945.png",
     "Atlas/Maps/♺ 개발공부.md",
+    "Kit/Attachments/cover-agent-layered-architecture.excalidraw.md",
+    "+/무제 3.md",
+    "+/무제 2.md",
+    "Calendar/Days/2025-06-12.md",
     "6F/♳ Figurehead.md",
+    "6F/♳ Finance.md",
+    "6F/♳ Fitness.md",
+    "6F/♳ Friends.md",
+    "6F/♳ Fun.md",
+    "6F/♳ DamonCompany.md",
+    "Atlas/Maps/♺ 건강지식-정신.md",
+    "Atlas/Books/어린 왕자.md",
+    "Atlas/Books/OKR.md",
+    "Atlas/Books/총 균 쇠.md",
+    "Atlas/Books/이문열 삼국지 1 도원.md",
+    "Atlas/Books/에디톨로지.md",
+    "Atlas/Books/세컨드 브레인.md",
+    "Atlas/Books/그릿.md",
+    "Atlas/Books/거인의 노트.md",
+    "Atlas/Books/거꾸로 읽는 세계사.md",
+    "+/무제 1.md",
     "6F/♳ Family.md",
     "Kit/DB&Structure/Dataview 쿼리 샘플.md",
     "Kit/DB&Structure/6F-Efforts-Archive.base",
     "Kit/DB&Structure/6F-LOG.base",
     "Kit/DB&Structure/6F-Efforts.base",
-    "Efforts/Sleeping/주 2회 독서 리뷰 영상 만들기.md",
-    "Efforts/Sleeping/여행 유튜브 채널 운영.md",
-    "Efforts/Sleeping/아침 6시 기상 루틴.md",
-    "Efforts/Sleeping/물류센터 내 피킹 로봇 도입 PoC.md",
-    "Efforts/Simmering/프라임 회원 이탈 예측 모델 개선.md",
-    "Efforts/Simmering/주말 보드게임 소모임 기획.md",
-    "Efforts/Simmering/가족과 함께 1년 장기여행 준비.md",
-    "Efforts/Ongoing/월 1회 부모님과 식사하기.md",
-    "Efforts/Ongoing/물류 파트너 SLA 정기 리뷰 & 개선 협업.md",
-    "Efforts/Ongoing/매월 자동이체 적금 50만 원 이상 유지.md",
-    "Efforts/Ongoing/글로벌 셀러 마켓 운영 파트너십 관리.md",
-    "Efforts/On/주 1회 피트니스 센터 방문.md",
-    "Efforts/On/아내와 매주 1회 대화 시간 만들기.md",
-    "Efforts/On/건강검진 미리 예약 및 준비하기.md",
-    "Efforts/On/신규 셀러 온보딩 UX 리디자인.md",
-    "Efforts/Archive/Same-Day 배송 가능 지역 확장.md",
-    "Efforts/Archive/Fresh 카테고리 고객 만족도 분석.md",
-    "Efforts/Archive/친구 생일 챙기기 프로젝트.md",
-    "Efforts/Archive/1년간 누적 5권 이상 독서 완료.md",
-    "Efforts/Archive/가족 캠핑 3회 이상 다녀오기.md",
-    "Efforts/Archive/검색 랭킹 알고리즘 AB 테스트.md",
-    "Calendar/Days/2025-05-11.md",
     "Kit/Attachments/미친결과를저널링하는법_패트릭그로브.mov",
-    "Kit/Attachments/Part 11. 유용한 플러그인 소개.png",
     "+/Part 11. 유용한 플러그인 소개",
-    "Kit/Attachments/Pasted Image 20231115233614_611.jpeg",
-    "Kit/Attachments/3장 기억하고 연결하고 창조하다.png",
-    "Kit/Attachments/Pasted Image 20231115233614_611.png",
-    "Kit/Attachments/Pasted Image 20231115233614_611.png.sb-e020e8de-IiDWx6",
-    "+/Part 10. 생산성을 높이는 추가 활용 팁",
-    "Kit/DB&Structure/6F-MOC.base",
-    "+/BASE",
-    "6F",
-    "Atlas/Visuals/무제.canvas",
-    "Kit/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Kit/Attachments/Pasted image 20250620171808.png",
-    "Kit/Attachments/Pasted Image 20231120231044_996.png",
-    "Kit/Attachments/Pasted Image 20231120232938_133.png",
-    "Kit/Attachments/Pasted Image 20231120232633_062.png",
-    "Kit/Attachments/Pasted Image 20231120232807_109.png"
+    "Atlas/Visuals/무제.canvas"
   ]
 }
