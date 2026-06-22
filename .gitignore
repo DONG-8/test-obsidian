@@ -21,6 +21,10 @@ desktop.ini
 .smtcmp_json_db/
 .smtcmp_vector_db*
 
+# Large local media
+*.mp4
+*.mov
+
 # Oh My Codex runtime state/logs for this local machine.
 # Add explicit config files above this section if they should be shared later.
 .omx/logs/
