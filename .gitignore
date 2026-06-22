@@ -16,6 +16,10 @@ desktop.ini
 !.obsidian/
 !.obsidian/**
 
+# Local Obsidian workspace/history state
+.obsidian/workspace.json
+.obsidian/plugins/recent-files-obsidian/data.json
+
 # Smart Composer generated local databases/caches.
 # Plugin code and settings stay tracked under .obsidian/plugins/smart-composer/.
 .smtcmp_json_db/
