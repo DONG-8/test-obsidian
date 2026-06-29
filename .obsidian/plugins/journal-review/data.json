@@ -24,9 +24,9 @@
   "useQuote": true,
   "openInNewPane": false,
   "showNoteTitle": true,
-  "useNotifications": true,
+  "useNotifications": false,
   "renderOnFileSwitch": false,
-  "date": "2026-06-27T17:28:26.156Z",
+  "date": "2026-06-29T00:47:28.810Z",
   "noteMarkdownRegex": "",
   "showRandomNote": false,
   "randomNotePosition": "bottom"
