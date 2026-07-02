@@ -12,6 +12,6 @@
   "expiry": "",
   "clipboard": true,
   "shareUnencrypted": false,
-  "authRedirect": null,
+  "authRedirect": "share",
   "debug": 0
 }
